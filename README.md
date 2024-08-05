@@ -147,9 +147,3 @@ The application will be available at [http://127.0.0.1:8000](http://127.0.0.1:80
 - **Environment Variable Issues:** Ensure your `.env` file is correctly formatted and located in the root directory.
 - **Database Issues:** Verify that your database is properly set up and accessible.
 
-For further assistance, consult the project documentation or reach out to the development team.
-
-Happy coding! 🚀
-```
-
-Replace `<repository-url>` and `<repository-directory>` with your actual repository URL and directory name.
